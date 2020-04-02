@@ -1,121 +1,19 @@
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+[Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access](#Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access)
+## Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access
+|Control Id|Description|Notes|
+|:---------|:----------|:-------------|
+|Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access|All users/identities must be granted minimum required permissions using Role Based Access Control (RBAC)||
 
 
-## Example
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
+[Azure_APIManagement_Audit_Enable_Alerts](#Azure_APIManagement_Audit_Enable_Alerts)
+## Azure_APIManagement_Audit_Enable_Alerts
+|Control Id|Description|Notes|
+|:---------|:----------|:-------------|
+|Azure_APIManagement_Audit_Enable_Alerts|Metric alert rules must be configured for critical actions on API Management service||
 
 
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-## Example2
-
-as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-## Third Example
-
-as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-## [Fourth Example](http://www.fourthexample.com) 
-
-as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
-
-sadkjhsakg sadafjnksagf lsfljksgh asskjhsgkjh lsjfkjshgskjgh skjhgklsjg  The 3rd example above does not work.Example"Example2" hird Exampleis the only way I could get it to swallow spaces so far. Surely the 3rd tag would be interpreted as The example is there to serve as an example for more than one word. All words are broken down to no caps lock, and no spaces. – Rick Jul 9 '16 at 17Works fine in RStudio. Just want to add that the German umlauts e.g. ü need to be written without umlau – steinbock Sep 23 '16 at 12:44 Anchors are not automatically created for headings in Bitbucket v4.5.2 – Mike Rylander Oct 7 '16 at 16:36 
-That fourth example is what I was looking for. Thanks! – kenecaswell Sep
+[Azure_APIManagement_Audit_Enable_Diagnostics_Log](#Azure_APIManagement_Audit_Enable_Diagnostics_Log)
+## Azure_APIManagement_Audit_Enable_Diagnostics_Log
+|Control Id|Description|Notes|
+|:---------|:----------|:-------------|
+|Azure_APIManagement_Audit_Enable_Diagnostics_Log|Diagnostics logs must be enabled with a retention period of at least $($this.ControlSettings.Diagnostics_RetentionPeriod_Min) days||
